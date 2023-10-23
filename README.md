@@ -13,4 +13,4 @@ scond item
 third item
 
 ##linl to a page
-[spiced academy] (https://www.spiced-academy.com/en)
+[spiced academy](https://www.spiced-academy.com/en)

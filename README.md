@@ -20,3 +20,15 @@ third item
 ##code
 ###codline
 we cann add a cod line ´console.log(hi)
+
+##codeblock
+``` js
+const chohort = "anna"
+const student = {
+
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
